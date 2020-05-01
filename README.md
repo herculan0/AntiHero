@@ -53,7 +53,7 @@ botao.setOnClickListener(new View.OnClickListener() {
 
 Através do Botão iniciamos a Intent para capturar a foto da Pessoa assim que ela clica no botão.
 
-```
+```java
 private String sortear() {
     Random sortiador = new Random();
     int sorteado = sortiador.nextInt(fotos.size());
