@@ -80,7 +80,7 @@ protected void onActivityResult(int requestCode, int resultCode, Intent data) {
 
 Criamos um  método recebendo o código da requisição, resultado da requisição e os dados da Intent. Então se o resultado recebido for o mesmo estipulamos que o Layout inicio "se vai" e dá espaço ao Layout com as fotos(da pessoa e do heroi) e criamos um Bitmap com a photo que receberá o dado da Intent, que no caso é a foto do usuário. Assim chamamos o método de exibirSorteado:
 
-```
+```java
 private void exibirSorteado() {
     String fotoSorteado = sortear();
     textView.setText("Você se parece com " + fotoSorteado);
