@@ -1,0 +1,2 @@
+rootProject.name='AntiHero'
+include ':app'

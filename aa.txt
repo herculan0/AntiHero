@@ -1,0 +1,14 @@
+        fotos.add("baco");
+        fotos.add("coringa");
+        fotos.add("deadpool");
+        fotos.add("graceHopper.jpeg");
+        fotos.add("jaspion.jpeg");
+        fotos.add("mr_robot.jpeg");
+        fotos.add("mulherMaravilha.jpeg");
+        fotos.add("neo.jpeg");
+        fotos.add("rochelle.jpeg");
+        fotos.add("samueljackson.jpeg");
+        fotos.add("superchoque.jpeg");
+        fotos.add("terryCrews.jpeg");
+        fotos.add("trinity.jpeg");
+        fotos.add("watchmen.jpeg");
